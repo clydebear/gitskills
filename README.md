@@ -1,3 +1,7 @@
 # gitskills
 Creating a new branch is quick and easy
-  aadd by dev
+
+
+
+  save not a moment
+
